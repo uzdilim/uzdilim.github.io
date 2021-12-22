@@ -80,3 +80,11 @@ input {
 .module-listA li a:active {
 	background-color: #f7f7f7
 }
+
+.module-listA li:nth-last-child(1),.module-listA li:nth-last-child(2),.module-listA li:nth-last-child(3),.module-listA li:nth-last-child(4) {
+	border-bottom: 0 none
+}
+
+.module-listA li:nth-child(4n):after {
+	display: none
+}

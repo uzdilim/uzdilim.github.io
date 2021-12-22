@@ -48,9 +48,10 @@ input {
 	float: right;
 	width: 25%;
 	height: 3.20833rem;
-	line-height: 3.20833rem;
+	line-height: 3.30833rem;
 	overflow: hidden;
 	border-bottom: 1px solid #eee;
+	font-size: 1.3rem;
 	text-align: center
 }
 
